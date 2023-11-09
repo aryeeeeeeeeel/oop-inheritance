@@ -4,6 +4,9 @@ public class Main {
         
         Child myChild = new Child ("Ariel");
         
+        myChild.eat();
+        myChild.sleep();
         
+        myChild.nagging();
     }
 }

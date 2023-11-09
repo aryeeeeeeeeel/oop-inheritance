@@ -3,7 +3,7 @@ public class Child extends Parent {
         super(name);
     }
     
-    void bark(){
-        System.out.println(name + " is barking");
+    void nagging(){
+        System.out.println(name + " is nagging");
     }
 }
