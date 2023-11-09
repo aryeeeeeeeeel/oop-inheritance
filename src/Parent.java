@@ -6,9 +6,9 @@ public class Parent {
     }
     
     void eat(){
-        System.out.println(name + " is eating");
+        System.out.println(name + " kay gakaon");
     }
     void sleep(){
-        System.out.println(name + " is sleeping");
+        System.out.println(name + " kay natulog");
     }
 }
